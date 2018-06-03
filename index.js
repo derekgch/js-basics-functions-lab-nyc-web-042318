@@ -19,18 +19,18 @@ function calculatesFarePrice(start, end) {
  let distance =distanceTravelledInFeet (start, end);
 
  if (distance > 2500) {
-   
+   return 'cannot travel that far';
  }else if (distance > 2000) {
-   
+
  } else if (distance >400) {
-   
+
  }else {
-   
- }
-   
+
  }
 
-     
- 
+ }
+
+
+
 
 }
