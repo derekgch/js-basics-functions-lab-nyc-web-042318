@@ -33,4 +33,4 @@ function calculatesFarePrice(start, end) {
 
 
 
-}
+
