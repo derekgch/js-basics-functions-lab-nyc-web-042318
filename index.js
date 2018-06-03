@@ -10,7 +10,7 @@ function distanceFromHqInFeet (someValue) {
   //the return value of distanceFromHqInBlocks can then be used to calculate feet
 }
 
-function distanceTravelledInFeet(someValue) {
+function distanceTravelledInFeet(start, end) {
   return (Math.abs(someValue - 42)*264);
-  
+
 }
